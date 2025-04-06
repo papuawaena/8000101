@@ -3,7 +3,7 @@ Whitelabel Error Page
 This application has no explicit mapping for /error, so you are seeing this as a fallback.
 There was an unexpected error 
             
-                                                    (type=Not Found, status=404).
+                                                    (type=Not Found, status=404)
 
 
 
